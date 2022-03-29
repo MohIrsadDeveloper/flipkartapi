@@ -1,0 +1,130 @@
+[
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/ktketu80/computer/n/r/0/a315-23-laptop-acer-original-imag6w27yw7bmdz5.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    },
+    "brand" : {
+      "brand_name" : "acer",
+      "brand_id" : 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    },
+    "brand" : {
+      "brand_name" : "apple",
+      "brand_id" : 2
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    },
+    "brand" : {
+      "brand_name" : "asus",
+      "brand_id" : 3
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/kt8zb0w0/computer/n/m/v/inspiron-3511-thin-and-light-laptop-dell-original-imag6n5kbmfcgxk6.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    },
+    "brand" : {
+      "brand_name" : "dell",
+      "brand_id" : 4
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/kzrbiq80/computer/5/q/g/-original-imagbzyyk8she3jc.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    },
+    "brand" : {
+      "brand_name" : "hp",
+      "brand_id" : 5
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    },
+    "brand" : {
+      "brand_name" : "lenovo",
+      "brand_id" : 6
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/kfeamq80/computer/d/x/v/lg-original-imafvv2v2mhtzhht.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    },
+    "brand" : {
+      "brand_name" : "lg",
+      "brand_id" : 7
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/kirr24w0/computer/z/r/b/dell-na-laptop-original-imafyhm5nzfum7jj.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    },
+    "brand" : {
+      "brand_name" : "dell",
+      "brand_id" : 4
+    }
+  }
+]

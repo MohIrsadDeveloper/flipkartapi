@@ -1,0 +1,130 @@
+[
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jrcdsi80/backpack/n/v/j/jersey-26l-blue-backpack-jersey19cbblu-backpack-safari-original-imaf8yr6yfbbhysk.jpeg?q=70",
+    "product_title": "Trendy Backpacks",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "Safari, Skybags, Mi..."
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    },
+    "brand" : {
+      "brand_name" : "safari",
+      "brand_id" : 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/k5lcvbk0/backpack/z/t/s/boho-with-rain-cover-blue-casual-backpack-23l-bpboh1rblu-original-imafz8f66gvawsgf.jpeg?q=70",
+    "product_title": "College Backpacks",
+    "tag": {
+      "offer_tag": "Under 999",
+      "deals_tag": "Skybags, Wildcraft.."
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    },
+    "brand" : {
+      "brand_name" : "skybags",
+      "brand_id" : 2
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/kg8avm80/backpack/f/c/y/litt-unisex-backpack-with-rain-cover-and-reflective-strip-p-033-original-imafwgg5hdfa54qv.jpeg?q=70",
+    "product_title": "Provogue",
+    "tag": {
+      "offer_tag": "Min 60% Off",
+      "deals_tag": "Backpacks"
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    },
+    "brand" : {
+      "brand_name" : "provogue",
+      "brand_id" : 3
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/kg9qbgw0/backpack/f/s/w/spacy-unisex-backpack-with-rain-cover-and-reflective-strip-black-original-imafwjxdgxynfwqt.jpeg?q=70",
+    "product_title": "Polyester Backpacks",
+    "tag": {
+      "offer_tag": "Min 60% Off",
+      "deals_tag": "Shop Now!"
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    },
+    "brand" : {
+      "brand_name" : "safwan",
+      "brand_id" : 4
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/309/371/kw9krrk0/backpack/e/4/9/30-l-casual-17-inch-laptop-backpack-bag-for-men-women-6-3-yellow-original-imag8ze6azqwxgx7.jpeg?q=50",
+    "product_title": "Medium Size",
+    "tag": {
+      "offer_tag": "Upto 75% Off",
+      "deals_tag": "Best Deals"
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    },
+    "brand" : {
+      "brand_name" : "selvee",
+      "brand_id" : 5
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/309/371/km6mxe80/backpack/i/q/2/15401-red-15401-red-laptop-backpack-flycraft-25-original-imagf5grgjghgxdr.jpeg?q=50",
+    "product_title": "Best Features",
+    "tag": {
+      "offer_tag": "Starting at $399",
+      "deals_tag": "New with Flycraft"
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    },
+    "brand" : {
+      "brand_name" : "flycraft",
+      "brand_id" : 6
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/309/371/kzzw5u80/backpack/r/n/a/casual-unisex-travel-bag-office-messenger-school-backpack-fft-original-imagbwfjdqj7n3fh.jpeg?q=50",
+    "product_title": "Fast Fashion",
+    "tag": {
+      "offer_tag": "70% Off",
+      "deals_tag": "Deals of the Day"
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    },
+    "brand" : {
+      "brand_name" : "",
+      "brand_id" : 7
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/309/371/kdxfc7k0pkrrdj/backpack/y/f/g/h-3-hp-original-imafuumhdggfhjgv.jpeg?q=50",
+    "product_title": "Hp for Laptop",
+    "tag": {
+      "offer_tag": "Free Delivery",
+      "deals_tag": "Fast Delivery"
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    },
+    "brand" : {
+      "brand_name" : "hp",
+      "brand_id" : 8
+    }
+  }
+]

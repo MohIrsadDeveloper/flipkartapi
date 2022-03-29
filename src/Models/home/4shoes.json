@@ -1,0 +1,130 @@
+[
+    {
+        "image": "https://rukminim2.flixcart.com/image/150/150/l02r1jk0/shoe/w/h/k/6-brd-651-6-birde-black-original-imagbxxtgbhgwvdy.jpeg?q=70",
+        "product_title": "Levi's, UCB & Converse",
+        "tag": {
+          "offer_tag": " 30-60% Off",
+          "deals_tag": "Men's Sneakers"
+        },
+        "product": {
+          "product_type": "shoes",
+          "product_type_id": 4
+        },
+        "brand" : {
+          "brand_name" : "",
+          "brand_id" : 1
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/150/150/jyyqc280/shoe/7/v/e/38099-1622-8-levi-s-navy-blue-original-imafj2whdnkfpjjf.jpeg?q=70",
+        "product_title": "Converse, Levi's, WRONG...",
+        "tag": {
+          "offer_tag": " 30-60% Off",
+          "deals_tag": "Men's Sneakers"
+        },
+        "product": {
+          "product_type": "shoes",
+          "product_type_id": 4
+        },
+        "brand" : {
+          "brand_name" : "",
+          "brand_id" : 2
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/150/150/k3dc7m80pkrrdj/slipper-flip-flop/z/r/z/7-sl5118-kraasa-original-imaewsyyyehhqugs.jpeg?q=70",
+        "product_title": "Best Selling Footwear",
+        "tag": {
+          "offer_tag": "Under $599",
+          "deals_tag": "Sandals, Slippers & Flip Flios..."
+        },
+        "product": {
+          "product_type": "shoes",
+          "product_type_id": 4
+        },
+        "brand" : {
+          "brand_name" : "",
+          "brand_id" : 3
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/150/150/k2m6ufk0/sandal/5/y/9/206340-8-crocs-canary-original-imafhx8rhrf34dxp.jpeg?q=70",
+        "product_title": "Crocs",
+        "tag": {
+          "offer_tag": "Min. 40% Off",
+          "deals_tag": "Clogs, Sandals & more"
+        },
+        "product": {
+          "product_type": "shoes",
+          "product_type_id": 4
+        },
+        "brand" : {
+          "brand_name" : "",
+          "brand_id" : 4
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/150/150/jox7xjk0-1/shoe/v/x/b/25318259-8-u-s-polo-assn-tan-original-imafbae7xzyapfqs.jpeg?q=70",
+        "product_title": "USPA, UCB & more",
+        "tag": {
+          "offer_tag": "Upto 60% off",
+          "deals_tag": "Casual Shoes & more"
+        },
+        "product": {
+          "product_type": "shoes",
+          "product_type_id": 4
+        },
+        "brand" : {
+          "brand_name" : "",
+          "brand_id" : 5
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/150/150/krkyt8w0/shoe/y/e/f/10-wnsfa10-44-wrogn-blue-original-imag5cck7anyuygy.jpeg?q=70",
+        "product_title": "WROGN",
+        "tag": {
+          "offer_tag": "Min. 30% off",
+          "deals_tag": "Casual Shoes, Sneakers & more"
+        },
+        "product": {
+          "product_type": "shoes",
+          "product_type_id": 4
+        },
+        "brand" : {
+          "brand_name" : "",
+          "brand_id" : 6
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/150/150/jjelq4w0/shoe/e/f/c/pikaw20180014-8-provogue-tan-original-imaf6zj82yshc3sp.jpeg?q=70",
+        "product_title": "Converse, Levi's...",
+        "tag": {
+          "offer_tag": "Upto 50% Off",
+          "deals_tag": "Sneakers, Loafers & more"
+        },
+        "product": {
+          "product_type": "shoes",
+          "product_type_id": 4
+        },
+        "brand" : {
+          "brand_name" : "",
+          "brand_id" : 7
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/150/150/ksnjp8w0/sandal/x/e/j/9-sa6069-kraasa-grey-original-imag66awgyuxumzq.jpeg?q=70",
+        "product_title": "Kraasa",
+        "tag": {
+          "offer_tag": "Under ₹699",
+          "deals_tag": "Sandals,Slippers & Flip Flops..."
+        },
+        "product": {
+          "product_type": "shoes",
+          "product_type_id": 4
+        },
+        "brand" : {
+          "brand_name" : "",
+          "brand_id" : 8
+        }
+      }
+]

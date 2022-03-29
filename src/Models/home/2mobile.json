@@ -1,0 +1,130 @@
+[
+    {
+        "image": "https://rukminim2.flixcart.com/image/312/312/k9loccw0/mobile/6/8/g/apple-iphone-se-mxvv2hn-a-original-imafrcqmfxhcrpsb.jpeg?q=70",
+        "product_title": "0% Interest",
+        "tag": {
+          "offer_tag": "No Cost EMI",
+          "deals_tag": "For All Phone Models"
+        },
+        "product": {
+          "product_type": "mobile",
+          "product_type_id": 2
+        },
+        "brand" : {
+          "brand_name" : "apple",
+          "brand_id" : 1
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/312/312/k3ncakw0pkrrdj/mobile/p/h/y/huawei-y9-prime-2019-stk-l22-original-imafgf3hqgzwadyq.jpeg?q=70",
+        "product_title": "4 GB",
+        "tag": {
+          "offer_tag": "Best Selling Products",
+          "deals_tag": "For All Phone Models"
+        },
+        "product": {
+          "product_type": "mobile",
+          "product_type_id": 2
+        },
+        "brand" : {
+          "brand_name" : "huawei",
+          "brand_id" : 2
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/312/312/kuef2q80/mobile/w/j/r/redmi-9a-sport-9a-mi-original-imag7gy6tzuz3hk8.jpeg?q=70",
+        "product_title": "Snapdragon Mobiles",
+        "tag": {
+          "offer_tag": "New Collection",
+          "deals_tag": "For All Phone Models"
+        },
+        "product": {
+          "product_type": "mobile",
+          "product_type_id": 2
+        },
+        "brand" : {
+          "brand_name" : "mi",
+          "brand_id" : 3
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/312/312/k070zgw0/mobile/z/4/3/lenovo-z6-pro-l78051-original-imafkfuwrgzct8ah.jpeg?q=70",
+        "product_title": "HD Recording",
+        "tag": {
+          "offer_tag": "Best Selling Products",
+          "deals_tag": "For All Phone Models"
+        },
+        "product": {
+          "product_type": "mobile",
+          "product_type_id": 2
+        },
+        "brand" : {
+          "brand_name" : "lenovo",
+          "brand_id" : 4
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/312/312/kulk9zk0/mobile/z/w/l/e40-parl0011in-motorola-original-imag7zz7udwpktzy.jpeg?q=70",
+        "product_title": "Explore Now!",
+        "tag": {
+          "offer_tag": "Min 10% Off",
+          "deals_tag": "For All Phone Models"
+        },
+        "product": {
+          "product_type": "mobile",
+          "product_type_id": 2
+        },
+        "brand" : {
+          "brand_name" : "motorola",
+          "brand_id" : 5
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/y/v/6/9-128-c-ta-1087-ds-nokia-6-original-imafg98nken2dhmh.jpeg?q=70",
+        "product_title": "Affordable Options",
+        "tag": {
+          "offer_tag": "Under $9,999",
+          "deals_tag": "For All Phone Models"
+        },
+        "product": {
+          "product_type": "mobile",
+          "product_type_id": 2
+        },
+        "brand" : {
+          "brand_name" : "nokia",
+          "brand_id" : 6
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/312/312/kv6zvrk0/mobile/n/a/s/a16-cph2269-oppo-original-imag85qsuwthwthy.jpeg?q=70",
+        "product_title": "Most Loved",
+        "tag": {
+          "offer_tag": "4 Stars and Above",
+          "deals_tag": "For All Phone Models"
+        },
+        "product": {
+          "product_type": "mobile",
+          "product_type_id": 2
+        },
+        "brand" : {
+          "brand_name" : "oppo",
+          "brand_id" : 7
+        }
+      },
+      {
+        "image": "https://rukminim2.flixcart.com/image/312/312/l0fm07k0/mobile/y/g/i/-original-imagc7ryyhrrcgxh.jpeg?q=70",
+        "product_title": "Top Rated",
+        "tag": {
+          "offer_tag": "Best Selling Product",
+          "deals_tag": "For All Phone Models"
+        },
+        "product": {
+          "product_type": "mobile",
+          "product_type_id": 2
+        },
+        "brand" : {
+          "brand_name" : "realme",
+          "brand_id" : 8
+        }
+      }
+]

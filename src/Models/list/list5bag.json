@@ -1,0 +1,37 @@
+[
+    {
+        "product_type_id" : "5",
+        "brand" : {
+            "brand_name" : "WROGN",
+            "brand_id" : 1
+        },
+        "product_name" : "Large 35 L Laptop Backpack Large Alpha International Backpack with Rain Cover Laptop/Travel/Ofc/School-A35L  (Grey)",
+        "product_id" : 1,
+        "price" : [
+            {
+                "current_price" : "1249",
+                "old_price" : "4,999"
+            }
+        ],
+        "color" : ["red","green","gray"],
+        "discount" : "75% off",
+        "rating" : {
+            "rating_star" : 4.5,
+            "rating_review" : ""
+        },
+        "band_offer" : [
+            
+        ],
+        "features" : [
+
+        ],
+        "images" : [
+            "https://rukminim2.flixcart.com/image/880/1056/l08gsy80/backpack/5/1/n/8-large-alpha-international-backpack-with-rain-cover-laptop-original-imagc2g9rf6vhrg6.jpeg?q=50",
+            "https://rukminim2.flixcart.com/image/880/1056/l08gsy80/backpack/q/a/2/8-large-alpha-international-backpack-with-rain-cover-laptop-original-imagc2g9vej9fzn6.jpeg?q=50",
+            "https://rukminim2.flixcart.com/image/880/1056/l08gsy80/backpack/i/d/8/8-large-alpha-international-backpack-with-rain-cover-laptop-original-imagc2g95rmmnjgt.jpeg?q=50",
+            "https://rukminim2.flixcart.com/image/880/1056/l08gsy80/backpack/r/v/i/8-large-alpha-international-backpack-with-rain-cover-laptop-original-imagc2g9krcdz2qn.jpeg?q=50",
+            "https://rukminim2.flixcart.com/image/880/1056/l08gsy80/backpack/4/s/u/8-large-alpha-international-backpack-with-rain-cover-laptop-original-imagc2g9sjmzhvup.jpeg?q=50"
+        ]
+        
+    }
+  ]

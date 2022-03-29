@@ -1,0 +1,98 @@
+[
+  {
+    "image": "https://rukminim2.flixcart.com/image/312/312/kzfvzww0/computer/r/g/i/hp-laptop-15s-eq2144au-amd-ryzen-5-5500u-8gb-ddr4-512-gb-pcie-original-imagbg5jctdf4xwf.jpeg?q=70",
+    "product_title": "Laptop Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Laptop"
+    },
+    "product": {
+      "product_type": "laptop",
+      "product_type_id": 1
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/kg8avm80/cases-covers/back-cover/y/a/3/spigen-acs01616-original-imafwgbyhm6bs5zc.jpeg?q=70",
+    "product_title": "Best Brand",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "For All Phone Models"
+    },
+    "product": {
+      "product_type": "mobile",
+      "product_type_id": 2
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/kpydrbk0/watch/k/c/p/square-led-tron-original-imag42gg7muqckjz.jpeg?q=70",
+    "product_title": "Watch Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "Watches"
+    },
+    "product": {
+      "product_type": "watch",
+      "product_type_id": 3
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jxdkpzk0/shoe/q/f/5/rc15013-8-red-chief-brown-original-imafhu3nggdsqajy.jpeg?q=70",
+    "product_title": "Woodland",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "Casual Shoes, Sandals & ..."
+    },
+    "product": {
+      "product_type": "shoes",
+      "product_type_id": 4
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jtsz3bk0/backpack/x/d/m/quint-19-cb-cosmic-blue-quint19cbcmb-backpack-safari-original-imafffn5ezgzvwwr.jpeg?q=70",
+    "product_title": "Bag Best Selling!",
+    "tag": {
+      "offer_tag": "From $199",
+      "deals_tag": "Wildcraft,Skybags...."
+    },
+    "product": {
+      "product_type": "bag",
+      "product_type_id": 5
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/kngd0nk0/fan/x/c/3/1200mm-fan-ambrose-gold-mist-wood-ceiling-fan-havells-original-imag24mayzwgkkks.jpeg?q=70",
+    "product_title": "Fan",
+    "tag": {
+      "offer_tag": "From $1,299",
+      "deals_tag": "By Havells"
+    },
+    "product": {
+      "product_type": "air condition",
+      "product_type_id": 6
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/ko0d6kw0/bottle/w/n/g/venice-fridge-water-bottles-120-cello-original-imag2kj9s4p9fhu4.jpeg?q=70",
+    "product_title": "Water Bottles",
+    "tag": {
+      "offer_tag": "Grab Or Gone",
+      "deals_tag": ""
+    },
+    "product": {
+      "product_type": "essential",
+      "product_type_id": 7
+    }
+  },
+  {
+    "image": "https://rukminim2.flixcart.com/image/150/150/jt0eaa80/living-room-chair/j/d/f/brown-pc-wood0272-woodarth-brown-original-imafed9fyjkmggnj.jpeg?q=70",
+    "product_title": "Living Room Chairs",
+    "tag": {
+      "offer_tag": "Upto 70% Off",
+      "deals_tag": "Summer Collection"
+    },
+    "product": {
+      "product_type": "furniture",
+      "product_type_id": 8
+    }
+  }
+]

@@ -1,0 +1,1025 @@
+[
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "acer",
+      "brand_id": 1
+    },
+    "product_name": "acer Aspire 3 Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) A315-23 Laptop",
+    "product_id": 1,
+    "price": [
+      {
+        "current_price": "36990",
+        "old_price": "44999"
+      }
+    ],
+    "discount": "17% off",
+    "rating": {
+      "rating_star": 4.6,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Light Laptop without Optical Disk Drive",
+      "15.6 inch Full HD high-brightness Acer ComfyView LED-backlit TFT LCD"
+    ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/ktketu80/computer/n/r/0/a315-23-laptop-acer-original-imag6w27yw7bmdz5.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "acer",
+      "brand_id": 1
+    },
+    "product_name": "acer Aspire 7 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce ...",
+    "product_id": 2,
+    "price": [
+      {
+        "current_price": "54990",
+        "old_price": "89000"
+      }
+    ],
+    "discount": "Upto 38% off",
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "NVIDIA GeForce GTX 1650",
+    "15.6 inch Full HD LED Backlit IPS ComfyView Display (16:9 Aspect Ratio, 45% NTSC Color Gamut)",
+    "Light Laptop without Optical Disk Drive",
+    "Pre-installed Genuine Windows 10 OS"
+    ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/klcmoi80/computer/q/e/3/na-gaming-laptop-acer-original-imagyhwfgwhkf3vv.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "acer",
+      "brand_id": 1
+    },
+    "product_name": "acer Aspire 5 Ryzen 5 Hexa Core AMD Ryzen 5-5500U hexa-core - (8 GB/512 GB SSD/Windows 10 Home) A515-4...",
+    "product_id": 3,
+    "price": [
+      {
+        "current_price": "55990",
+        "old_price": "65000"
+      }
+    ],
+    "discount": 13,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "Stylish & Portable Thin and Light Laptop",
+        "15.6 inch Full HD IPS Acer ComfyView LED-backlit TFT LCD, 16:9 aspect ratio, 45% NTSC color gamut",
+        "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+        "https://rukminim1.flixcart.com/image/312/312/krf91u80/computer/n/y/q/aspire-5-thin-and-light-laptop-acer-original-imag57xygyzhxaa7.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "acer",
+      "brand_id": 1
+    },
+    "product_name": "acer Aspire 3 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 11 Home) A315-58 Thin and Light Laptop",
+    "product_id": 4,
+    "price": [
+      {
+        "current_price": "36999",
+        "old_price": "50000"
+      }
+    ],
+    "discount": 26,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "Stylish & Portable Thin and Light Laptop",
+        "15.6 inch Full HD Acer ComfyView LED-backlit TFT LCD, 16:9 aspect ratio",
+        "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+        "https://rukminim1.flixcart.com/image/312/312/kshtxu80/computer/2/a/s/aspire-3-thin-and-light-laptop-acer-original-imag6fvccahrjyv6.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "acer",
+      "brand_id": 1
+    },
+    "product_name": "acer Nitro 5 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA ...",
+    "product_id": 5,
+    "price": [
+      {
+        "current_price": "59990",
+        "old_price": "99999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "NVIDIA GeForce GTX 1650",
+        "15.6 inch Full HD LED Backlit ComfyView IPS Display (16:9 Aspect Ratio)",
+        "Light Laptop without Optical Disk Drive",
+        "Pre-installed Genuine Windows 10 OS"
+      ],
+    "images": [
+        "https://rukminim1.flixcart.com/image/312/312/kuvkcy80/computer/n/y/n/na-gaming-laptop-acer-original-imag7whp9urft8mf.jpeg?q=70"
+    ]
+  },
+
+  // 2. apple
+
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A",
+    "product_id": 21,
+    "price": [
+      {
+        "current_price": "84990",
+        "old_price": "92900"
+      }
+    ],
+    "discount": 8,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70"
+    ]
+  },
+  
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "APPLE MacBook Pro M1 - (16 GB/512 GB SSD/Mac OS Big Sur) Z11B0008W",
+    "product_id": 22,
+    "price": [
+      {
+        "current_price": "155990",
+        "old_price": "163900"
+      }
+    ],
+    "discount": 4,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "13.3 inch Quad LED Backlit IPS Display (227 PPI, 500 nits Brightness, Wide Colour (P3), True Tone Technology)",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/kqjtd3k0/screen-guard/screen-guard/g/s/0/apple-macbook-pro-m1-somtone-original-imag4jhqaxbprrgx.jpeg?q=70"
+    ]
+  },
+  
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "APPLE MacBook Air M1 - (16 GB/256 GB SSD/Mac OS Big Sur) Z124J001KD",
+    "product_id": 23,
+    "price": [
+      {
+        "current_price": "105990",
+        "old_price": "122900"
+      }
+    ],
+    "discount": 13,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/kyt0ya80/computer/b/v/q/na-thin-and-light-laptop-apple-original-imagaygvkp7pjexm.jpeg?q=70"
+    ]
+  },
+  
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "APPLE MacBook Air M1 - (16 GB/512 GB SSD/Mac OS Big Sur) Z124J004KD",
+    "product_id": 24,
+    "price": [
+      {
+        "current_price": "127990",
+        "old_price": "137900"
+      }
+    ],
+    "discount": 7,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/kyt0ya80/computer/i/d/p/na-thin-and-light-laptop-apple-original-imagaygvtvf6cx8h.jpeg?q=70"
+    ]
+  },
+  
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "APPLE 2020 Macbook Air M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MGNA3HN/A",
+    "product_id": 25,
+    "price": [
+      {
+        "current_price": "108990",
+        "old_price": "117900"
+      }
+    ],
+    "discount": 7,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/khdqnbk0/computer/f/y/t/apple-original-imafxfyqydgvrkzv.jpeg?q=70"
+    ]
+  },
+
+
+  // 3. asus
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "asus",
+      "brand_id": 3
+    },
+    "product_name": "ASUS ROG 5s (Storm White, 256 GB)",
+    "product_id": 41,
+    "price": [
+      {
+        "current_price": "57999",
+        "old_price": "63999"
+      }
+    ],
+    "discount": 9,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "12 GB RAM | 256 GB ROM",
+      "17.22 cm (6.78 inch) Full HD+ Display",
+      "64MP + 13MP + 5MP | 24MP Front Camera",
+      "6000 mAh Lithium Polymer Battery",
+      "Qualcomm Snapdragon 888 Plus (SM8350) Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/d/m/m/-original-imagahvnbfxfbsc4.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "asus",
+      "brand_id": 3
+    },
+    "product_name": "",
+    "product_id": 42,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "asus",
+      "brand_id": 3
+    },
+    "product_name": "",
+    "product_id": 43,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "asus",
+      "brand_id": 3
+    },
+    "product_name": "",
+    "product_id": 44,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "asus",
+      "brand_id": 3
+    },
+    "product_name": "",
+    "product_id": 45,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+
+  //  dell
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "dell",
+      "brand_id": 4
+    },
+    "product_name": "DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) INSPIRON 3511 Thin and Lig...",
+    "product_id": 61,
+    "price": [
+      {
+        "current_price": "75946",
+        "old_price": "75946"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 inch Full HD WVA AG Narrow Border",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/krdtlzk0/computer/l/k/r/na-laptop-dell-original-imag57f9psmfjcxs.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "dell",
+      "brand_id": 4
+    },
+    "product_name": "DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Inspiron 3511 Thin and Lig...",
+    "product_id": 62,
+    "price": [
+      {
+        "current_price": "44490",
+        "old_price": "57479"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 Inch FHD, WVA AG Narrow Border",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+        "https://rukminim1.flixcart.com/image/312/312/kt8zb0w0/computer/n/m/v/inspiron-3511-thin-and-light-laptop-dell-original-imag6n5kbmfcgxk6.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "dell",
+      "brand_id": 4
+    },
+    "product_name": "DELL Vostro Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) Vostro 3401 Thin and Light Laptop",
+    "product_id": 63,
+    "price": [
+      {
+        "current_price": "39490",
+        "old_price": "43312"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "14 inch Full HD LED Backlit Anti-glare Display",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/computer/l/w/f/na-notebook-dell-original-imagfy6ah6k6jqdh.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "dell",
+      "brand_id": 4
+    },
+    "product_name": "DELL Vostro Ryzen 3 Dual Core R3-3250U - (8 GB/1 TB HDD/Windows 11 Home) Vostro 3405 Thin and Light La...",
+    "product_id": 64,
+    "price": [
+      {
+        "current_price": "35990",
+        "old_price": "50651"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "14 inch Full HD WVA AG Narrow Border",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/krf91u80/computer/2/m/b/na-thin-and-light-laptop-dell-original-imag585xzyrystrc.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "dell",
+      "brand_id": 4
+    },
+    "product_name": "DELL Inspiron Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) INSPIRON 3511 Thin and Light Laptop",
+    "product_id": 65,
+    "price": [
+      {
+        "current_price": "42190",
+        "old_price": "59654"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 inch Full HD WVA AG Narrow Border",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/kwl0akw0/computer/f/t/r/inspiron-3511-thin-and-light-laptop-dell-original-imag98fjy6yu6fgz.jpeg?q=70"
+    ]
+  },
+
+  // 5.lenovo
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "hp",
+      "brand_id": 5
+    },
+    "product_name": "HP Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 11 Home) EQ2144AU Laptop  (15.6 inch, Natural Silver, With MS Office)HP Ryzen 5 Hexa Core - (8 GB/512 GB SSD/Windows 11 Home) EQ2144AU Laptop",
+    "product_id": 81,
+    "price": [
+      {
+        "current_price": "47940",
+        "old_price": "60959"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Preloaded with MS Office",
+      "Light Laptop without Optical Disk Drive",
+      "15.6 inch"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/416/416/kzfvzww0/computer/r/g/i/hp-laptop-15s-eq2144au-amd-ryzen-5-5500u-8gb-ddr4-512-gb-pcie-original-imagbg5jctdf4xwf.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "hp",
+      "brand_id": 5
+    },
+    "product_name": "HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq2629TU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 KG, With MS Office)HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-fq2629TU Thin and Light Laptop",
+    "product_id": 82,
+    "price": [
+      {
+        "current_price": "42940",
+        "old_price": "57330"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 inch Full HD, micro-edge, anti-glare, Brightness: 250 nits, 141 ppi, Color Gamut: 45%NTSC",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/416/416/kzrbiq80/computer/5/q/g/-original-imagbzyyk8she3jc.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "hp",
+      "brand_id": 5
+    },
+    "product_name": "HP Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 10 Home) 15s-GY0501AU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 kg, With MS Office)HP Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 10 Home) 15s-GY0501AU Thin and Light Laptop",
+    "product_id": 83,
+    "price": [
+      {
+        "current_price": "38940",
+        "old_price": "46055"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 inch Full HD (Micro-edge, anti-glare, Brightness: 220 nits, 141 ppi, Color Gamut: 45% NTSC)",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/416/416/ktaeqvk0/computer/b/7/4/15s-gy0501au-thin-and-light-laptop-hp-original-imag6z6muntqnzzc.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "hp",
+      "brand_id": 5
+    },
+    "product_name": "HP Pentium Quad Core - (8 GB/256 GB SSD/Windows 11 Home) 14s-dq3033tu Thin and Light Laptop  (14 inch, Jet Black, 1.46 kg, With MS Office)HP Pentium Quad Core - (8 GB/256 GB SSD/Windows 11 Home) 14s-dq3033tu Thin and Light Laptop",
+    "product_id": 84,
+    "price": [
+      {
+        "current_price": "34312",
+        "old_price": "36865"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "14 inch HD micro-edge, BrightView, Brightness: 250 nits, 112 ppi, Color Gamut: 45%NTSC",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/416/416/kzrbiq80/computer/i/e/g/14s-dq3033tu-thin-and-light-laptop-hp-original-imagbpb2uunyvvhc.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "hp",
+      "brand_id": 5
+    },
+    "product_name": "HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-dy3501TU Thin and Light Laptop (15.6 inch, Natural Silver, 1.75 kg, With MS Office)HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s-dy3501TU Thin and Light Laptop",
+    "product_id": 85,
+    "price": [
+      {
+        "current_price": "41940",
+        "old_price": "49590"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 inch HD, micro-edge, anti-glare, Brightness: 250 nits, 101 ppi, Color Gamut: 45% NTSC",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/416/416/kyt0ya80/computer/s/z/b/-original-imagayc6ahrmg8y7.jpeg?q=70"
+    ]
+  },
+
+  // 6. lenovo
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 6
+    },
+    "product_name": "",
+    "product_id": 101,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 6
+    },
+    "product_name": "",
+    "product_id": 102,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 6
+    },
+    "product_name": "",
+    "product_id": 103,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 6
+    },
+    "product_name": "",
+    "product_id": 104,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 6
+    },
+    "product_name": "",
+    "product_id": 105,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "",
+    "product_id": 25,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "",
+    "product_id": 25,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "",
+    "product_id": 25,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "",
+    "product_id": 25,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "",
+    "product_id": 25,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "",
+    "product_id": 25,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 2
+    },
+    "product_name": "",
+    "product_id": 25,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+]
