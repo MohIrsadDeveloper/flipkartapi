@@ -84,10 +84,10 @@ app.get('/list', (req, res) => {
 })
 
 app.post('/detail/:id', (req,res) => {
-    let Id = mongo.ObjectId(req.params.id);
-    console.log(Id);
+    let itemId = Number(req.params.id);
+    console.log(itemId);
 
-    db.collection('ProductList').find({_id : Id}).toArray((err,result) => {
+    db.collection('ProductList').find({product_id : itemId}).toArray((err,result) => {
         if (err) throw err;
         res.json(result);
     })

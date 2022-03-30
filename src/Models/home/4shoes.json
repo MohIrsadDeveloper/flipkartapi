@@ -11,7 +11,7 @@
           "product_type_id": 4
         },
         "brand" : {
-          "brand_name" : "",
+          "brand_name" : "bata",
           "brand_id" : 1
         }
       },
@@ -27,7 +27,7 @@
           "product_type_id": 4
         },
         "brand" : {
-          "brand_name" : "",
+          "brand_name" : "paragon",
           "brand_id" : 2
         }
       },
@@ -43,7 +43,7 @@
           "product_type_id": 4
         },
         "brand" : {
-          "brand_name" : "",
+          "brand_name" : "nike",
           "brand_id" : 3
         }
       },
@@ -59,7 +59,7 @@
           "product_type_id": 4
         },
         "brand" : {
-          "brand_name" : "",
+          "brand_name" : "adidas",
           "brand_id" : 4
         }
       },
@@ -75,7 +75,7 @@
           "product_type_id": 4
         },
         "brand" : {
-          "brand_name" : "",
+          "brand_name" : "action",
           "brand_id" : 5
         }
       },
@@ -91,7 +91,7 @@
           "product_type_id": 4
         },
         "brand" : {
-          "brand_name" : "",
+          "brand_name" : "puma",
           "brand_id" : 6
         }
       },
@@ -107,7 +107,7 @@
           "product_type_id": 4
         },
         "brand" : {
-          "brand_name" : "",
+          "brand_name" : "reebok",
           "brand_id" : 7
         }
       },
@@ -123,7 +123,7 @@
           "product_type_id": 4
         },
         "brand" : {
-          "brand_name" : "",
+          "brand_name" : "vkc",
           "brand_id" : 8
         }
       }

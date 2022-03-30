@@ -1,0 +1,551 @@
+[
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "TXOR VERVE T500 Smartwatch",
+    "product_id": 301,
+    "price": [
+      {
+        "current_price": "1449",
+        "old_price": "2299"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts":
+     [
+      "With Call Function",
+      "Touchscreen"
+      ,
+      "Fitness & Outdoor",
+      "Battery Runtime: Upto 8 days"
+    ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/kqjtd3k0/smartwatch/h/x/9/44-f013-rose-gold-strap-android-ios-mcs-original-imag4jdhvuwnecy4.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Rich Club Notifer Health And Sim Card Supported Smartwatch",
+    "product_id": 302,
+    "price": [
+      {
+        "current_price": "849",
+        "old_price": "1999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "With Call Function",
+    "Touchscreen",
+    "Watchphone",
+    "Battery Runtime: Upto 10 hrs"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kzn17680/smartwatch/v/g/l/44-android-a1-black-smart-watch-rich-club-yes-original-imagbhubtz6egxpe.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "DIZO Watch R AMOLED with 45 mm Dial Size (by realme techLife)",
+    "product_id": 303,
+    "price": [
+      {
+        "current_price": "3949",
+        "old_price": "5999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "1.3&#x27;&#x27; Ultra Sharp AMOLED Screen with Always On Display",
+        "45mm Dial with Premium Metal Frame",
+        "150+ Stylish Watch Faces |5ATM Water Resistance |110+ Sports Modes",
+        "Health Monitoring of heart rate, SpO2, Sleep etc.",
+        "12-Day Battery Life and 2h Full Charge",
+        "Smart control of music, camera, calls, notifications etc.",
+        "DIZO App 2.0 with GPS Tracking",
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 10 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kzzw5u80/smartwatch/g/q/h/1-3-android-ios-dw2120-dizo-no-original-imagbvwrrbh8xnah.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Noise ColorFit Pro 3 Alpha Smartwatch",
+    "product_id": 304,
+    "price": [
+      {
+        "current_price": "5449",
+        "old_price": "8999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "1.69&quot; grand display: Get the rich immersive viewing experience on the 1.69&quot; LCD display with 500 Nits Brightness",
+        "Bluetooth calling: Answer and make calls, save your favourite contacts, dial from the recent call logs,An on-wrist skin temperature sensor, TWS/Neckband pairing,Ambient noise detection",
+        "Music Storage and playback: Store 80+ songs and play them at your discretion.Fast charge- 30 mins full charge, 100 sports mode,In watch customizable watch faces",
+        "With Call Function",
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 5 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/l0tweq80/smartwatch/c/y/b/-original-imagcjb5hctyzmv3.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Noise ColorFit Qube SpO2 Smartwatch",
+    "product_id": 305,
+    "price": [
+      {
+        "current_price": "1949",
+        "old_price": "4999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 7 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ku1k4280/smartwatch/t/i/a/android-ios-wrb-sw-colorfitqubeoxy-std-blk-blk-noise-no-original-imag79y4ar4hjbgb.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Noise ColorFit Qube SpO2 Smartwatch",
+    "product_id": 306,
+    "price": [
+      {
+        "current_price": "1949",
+        "old_price": "4999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 7 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ku1k4280/smartwatch/t/i/a/android-ios-wrb-sw-colorfitqubeoxy-std-blk-blk-noise-no-original-imag79y4ar4hjbgb.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Noise ColorFit Caliber Smartwatch",
+    "product_id": 307,
+    "price": [
+      {
+        "current_price": "2649",
+        "old_price": "3999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "4.2 cm (1.69&quot;) LCD full touch screen",
+        "150+ customizable and cloud based watch faces",
+        "60 Sports Mode|Body Temperature sensor",
+        "IP68 water resistant",
+        "Quick replies (Android only)",
+        "Blood oxygen, Heart rate monitor, Stress monitor and sleep monitor",
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 15 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ky0g58w0/smartwatch/o/n/8/-original-imagac74kujhzzrc.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "TXOR TYPHOON M5 BLACK 35 mm Screen Smartwatch",
+    "product_id": 308,
+    "price": [
+      {
+        "current_price": "575",
+        "old_price": "1499"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 8 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ksyz8280/smartwatch/o/a/b/42-android-ios-typhoon-m5-02-txor-no-original-imag6ffgyb7ycfwc.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Fire-Boltt Ninja Pro Max Smartwatch",
+    "product_id": 309,
+    "price": [
+      {
+        "current_price": "1949",
+        "old_price": "5999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "1.6&quot; Large Color LCD Full Touch Screen with 2.5D Curved Glass and 240*288 pixel Resolution",
+        "Ultra Thin 9.5mm and IP68 Water Resistance",
+        "27 Sports Mode | Large 8 Days Battery Power",
+        "Smart Health Tracking with",
+        "SpO2, Heart Rate, Sleep Monitoring",
+        "100 + Cloud Faces to match each style | All in One Social Update Notifications",
+        "Touchscreen",
+        "Fitness & Outdoor, Health & Medical",
+        "Battery Runtime: Upto 8 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kyhlfgw0/smartwatch/5/l/q/-original-imagaptb3zkpufkh.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Noise ColorFit Pro 3 Smartwatch",
+    "product_id": 310,
+    "price": [
+      {
+        "current_price": "3949",
+        "old_price": "5999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "TruView Display 1.55 inch HD Color touch screen with 320*360 Resolution & 500 NITS Brightness",
+        "Spo2, Stress , Sleep & Heart Rate Monitoring with 14 sports mode( with breathing exercise)",
+        "Customisable & Cloud-based Watch Faces",
+        "Upto 10-day battery life",
+        "Compatible with NoiseFit App",
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 10 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/knrsjgw0/smartwatch/5/n/y/wrb-sw-colorfitpro3-std-blk-blk-android-ios-noise-original-imag2drhhygt3ggz.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Realme TechLife Watch S100 1.69 inches HD Display",
+    "product_id": 311,
+    "price": [
+      {
+        "current_price": "2249",
+        "old_price": "3999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "4.3 cm (1.69 inch) TFT-LCD Super Bright HD Colour Display",
+        "Battery Life: Up to 12 days (depending on usage)",
+        "24x7 Heart Rate Monitor | 110+ New Watch Faces",
+        "SpO2 Blood Oxygen Saturation Monitor | Body & Skin Temperature Sensor",
+        "Sleep Monitoring | IP68 Water Resistant",
+        "Ultra Light weight & Ergonomic design | Hassle free Magnetic Fast Charging",
+        "Touchscreen",
+        "Fitness & Outdoor, Health & Medical",
+        "Battery Runtime: Upto 12 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/l0igvww0/smartwatch/z/y/r/-original-imagcahh99jx6xgg.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Minix Vega Full Touch HD Bluetooth Calling Smartwatch",
+    "product_id": 312,
+    "price": [
+      {
+        "current_price": "4449",
+        "old_price": "7999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "With Call Function",
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 12 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ktep2fk0/smartwatch/3/6/t/42-926-android-ios-mxt-fw20-minix-yes-original-imag6r88drfc65bu.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Noise ColorFit Icon Buzz Smartwatch",
+    "product_id": 313,
+    "price": [
+      {
+        "current_price": "3949",
+        "old_price": "4999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "1.69 TFT LCD Display",
+        "In-Built Games|Bluetooth Calling",
+        "Voice Assistance (AI voice assistance)",
+        "Noise Health Suite|Weather Report",
+        "Up to 7-Day Battery",
+        "100+ Watch Faces|IP67 Waterproof",
+        "With Call Function",
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 7 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kz1lle80/smartwatch/t/t/p/-original-imagb54swp4xn4na.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "Noise ColorFit Qube SpO2 Beige Gold Smartwatch",
+    "product_id": 314,
+    "price": [
+      {
+        "current_price": "1949",
+        "old_price": "4999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "Touchscreen",
+        "Fitness & Outdoor",
+        "Battery Runtime: Upto 7 days"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ku1k4280/smartwatch/f/z/k/android-ios-wrb-sw-colorfitqubeoxy-std-rgld-pnk-noise-no-original-imag79y4dphr2wrj.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "boAt Storm 1.3&quot; CurvedDisplay Smartwatch",
+    "product_id": 315,
+    "price": [
+      {
+        "current_price": "2449",
+        "old_price": "5990"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "3.3 cms(1.3 inches) Full Touch Screen Curved Display with Multiple Cloud Based Watch Faces (Note: Cloud Based Watch Faces will be Available via OTA Post Launch)",
+        "Wellness Mode: Spo2 (Real-time Blood Oxygen Level Monitor), 24x7 Heart Rate Monitor, Sleep monitor, Guided Breathing & Menstruation Tracker",
+        "Metal Body Casing and 5ATM Water Resistance",
+        "Daily Activity Tracker and 9 sports Modes | Notifications with Vibration Alerts for Calls, Texts, Social media, Alarms and Sedentary Alerts",
+        "Touchscreen",
+        "Fitness & Outdoor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kzpw2vk0/smartwatch/u/5/0/-original-imagbnnrn4gqa8tc.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "RKS 5-5-T Smartwatch",
+    "product_id": 316,
+    "price": [
+      {
+        "current_price": "1249",
+        "old_price": "2999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "With Call Function",
+        "Touchscreen",
+        "Fitness & Outdoor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kt39jm80/smartwatch/s/p/h/44-android-5-5-frog-green-rks-yes-original-imag6ggkdwe8wyfj.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "",
+    "product_id": 312,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+
+    ],
+    "images": [
+
+    ]
+  },
+  {
+    "product_type_id": 3,
+    "brand": {
+      "brand_name": "",
+      "brand_id": 1
+    },
+    "product_name": "",
+    "product_id": 312,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+
+    ],
+    "images": [
+
+    ]
+  }
+]

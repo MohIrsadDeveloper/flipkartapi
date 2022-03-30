@@ -716,12 +716,12 @@
       "brand_name": "lenovo",
       "brand_id": 6
     },
-    "product_name": "",
+    "product_name": "Lenovo 24.5 inch Full HD TN Panel Ultra Slim Bezel Gaming Monitor (Y25f-10)",
     "product_id": 101,
     "price": [
       {
-        "current_price": "",
-        "old_price": ""
+        "current_price": "19299",
+        "old_price": "27000"
       }
     ],
     "discount": 40,
@@ -730,10 +730,13 @@
       "rating_review": "5 Ratings & 1 Reviews"
     },
     "highlishts": [
-        
+      "Panel Type: TN Panel",
+      "Screen Resolution Type: Full HD",
+      "Response Time: 1 ms | Refresh Rate: 144 Hz",
+      "HDMI Ports - 1"
       ],
     "images": [
-        
+      "https://rukminim2.flixcart.com/image/312/312/jq8dgnk0/monitor/s/v/c/y25f-10-65d9gac4in-lenovo-original-imafc885wdhkgkyq.jpeg?q=70"
     ]
   },
   {
@@ -742,12 +745,12 @@
       "brand_name": "lenovo",
       "brand_id": 6
     },
-    "product_name": "",
+    "product_name": "Lenovo IdeaPad 3 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15ITL6 Thin and Light Laptop",
     "product_id": 102,
     "price": [
       {
-        "current_price": "",
-        "old_price": ""
+        "current_price": "39990",
+        "old_price": "61590"
       }
     ],
     "discount": 40,
@@ -756,10 +759,12 @@
       "rating_review": "5 Ratings & 1 Reviews"
     },
     "highlishts": [
-        
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 inch Full HD TN 250nits Anti-glare",
+      "Light Laptop without Optical Disk Drive"
       ],
     "images": [
-        
+      "https://rukminim2.flixcart.com/image/312/312/kruyw7k0/computer/f/i/u/na-thin-and-light-laptop-lenovo-original-imag5jy6fsm2yx4q.jpeg?q=70"
     ]
   },
   {
@@ -768,12 +773,12 @@
       "brand_name": "lenovo",
       "brand_id": 6
     },
-    "product_name": "",
+    "product_name": "Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15IML05 Thin and Light Laptop",
     "product_id": 103,
     "price": [
       {
-        "current_price": "",
-        "old_price": ""
+        "current_price": "36490",
+        "old_price": "57290"
       }
     ],
     "discount": 40,
@@ -782,10 +787,12 @@
       "rating_review": "5 Ratings & 1 Reviews"
     },
     "highlishts": [
-        
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 inch HD TN 220nits Anti-glare",
+      "Light Laptop without Optical Disk Drive"
       ],
     "images": [
-        
+      "https://rukminim2.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70"
     ]
   },
   {
@@ -794,12 +801,12 @@
       "brand_name": "lenovo",
       "brand_id": 6
     },
-    "product_name": "",
+    "product_name": "Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15IML05 Thin and Light Laptop",
     "product_id": 104,
     "price": [
       {
-        "current_price": "",
-        "old_price": ""
+        "current_price": "37990",
+        "old_price": "57990"
       }
     ],
     "discount": 40,
@@ -808,10 +815,12 @@
       "rating_review": "5 Ratings & 1 Reviews"
     },
     "highlishts": [
-        
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 Inch Full HD TN 220nits Anti-glare",
+      "Light Laptop without Optical Disk Drive"
       ],
     "images": [
-        
+      "https://rukminim2.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70"
     ]
   },
   {
@@ -820,10 +829,39 @@
       "brand_name": "lenovo",
       "brand_id": 6
     },
-    "product_name": "",
+    "product_name": "Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home) 15ALC6 Thin and Light Lap...",
     "product_id": 105,
     "price": [
       {
+        "current_price": "48990",
+        "old_price": "68990"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "Stylish & Portable Thin and Light Laptop",
+      "15.6 inch Full HD TN 250nits Anti-glare, 45% NTSC",
+      "Light Laptop without Optical Disk Drive"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70"
+    ]
+  },
+  // LG
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lg",
+      "brand_id": 7
+    },
+    "product_name": "",
+    "product_id": 121,
+    "price": [
+      {
         "current_price": "",
         "old_price": ""
       }
@@ -843,11 +881,89 @@
   {
     "product_type_id": 1,
     "brand": {
-      "brand_name": "apple",
-      "brand_id": 2
+      "brand_name": "lg",
+      "brand_id": 7
     },
     "product_name": "",
-    "product_id": 25,
+    "product_id": 122,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lg",
+      "brand_id": 7
+    },
+    "product_name": "",
+    "product_id": 123,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lg",
+      "brand_id": 7
+    },
+    "product_name": "",
+    "product_id": 124,
+    "price": [
+      {
+        "current_price": "",
+        "old_price": ""
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        
+      ],
+    "images": [
+        
+    ]
+  },
+  {
+    "product_type_id": 1,
+    "brand": {
+      "brand_name": "lg",
+      "brand_id": 7
+    },
+    "product_name": "",
+    "product_id": 125,
     "price": [
       {
         "current_price": "",
@@ -917,109 +1033,5 @@
     "images": [
         
     ]
-  },
-  {
-    "product_type_id": 1,
-    "brand": {
-      "brand_name": "apple",
-      "brand_id": 2
-    },
-    "product_name": "",
-    "product_id": 25,
-    "price": [
-      {
-        "current_price": "",
-        "old_price": ""
-      }
-    ],
-    "discount": 40,
-    "rating": {
-      "rating_star": 4.5,
-      "rating_review": "5 Ratings & 1 Reviews"
-    },
-    "highlishts": [
-        
-      ],
-    "images": [
-        
-    ]
-  },
-  {
-    "product_type_id": 1,
-    "brand": {
-      "brand_name": "apple",
-      "brand_id": 2
-    },
-    "product_name": "",
-    "product_id": 25,
-    "price": [
-      {
-        "current_price": "",
-        "old_price": ""
-      }
-    ],
-    "discount": 40,
-    "rating": {
-      "rating_star": 4.5,
-      "rating_review": "5 Ratings & 1 Reviews"
-    },
-    "highlishts": [
-        
-      ],
-    "images": [
-        
-    ]
-  },
-  {
-    "product_type_id": 1,
-    "brand": {
-      "brand_name": "apple",
-      "brand_id": 2
-    },
-    "product_name": "",
-    "product_id": 25,
-    "price": [
-      {
-        "current_price": "",
-        "old_price": ""
-      }
-    ],
-    "discount": 40,
-    "rating": {
-      "rating_star": 4.5,
-      "rating_review": "5 Ratings & 1 Reviews"
-    },
-    "highlishts": [
-        
-      ],
-    "images": [
-        
-    ]
-  },
-  {
-    "product_type_id": 1,
-    "brand": {
-      "brand_name": "apple",
-      "brand_id": 2
-    },
-    "product_name": "",
-    "product_id": 25,
-    "price": [
-      {
-        "current_price": "",
-        "old_price": ""
-      }
-    ],
-    "discount": 40,
-    "rating": {
-      "rating_star": 4.5,
-      "rating_review": "5 Ratings & 1 Reviews"
-    },
-    "highlishts": [
-        
-      ],
-    "images": [
-        
-    ]
-  },
+  }
 ]

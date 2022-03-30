@@ -1,0 +1,1210 @@
+[
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 1
+    },
+    "product_name": "APPLE iPhone SE (Red, 128 GB)",
+    "product_id": 201,
+    "price": [
+      {
+        "current_price": "27999",
+        "old_price": "27999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "128 GB ROM",
+    "11.94 cm (4.7 inch) Retina HD Display",
+    "12MP Rear Camera | 7MP Front Camera",
+    "A13 Bionic Chip with 3rd Gen Neural Engine Processor",
+    "Water and Dust Resistant (1 meter for Upto 30 minutes, IP67)",
+    "Fast Charge Capable",
+    "Wireless charging (Works with Qi Chargers | Qi Chargers are Sold Separately"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/k9loccw0/mobile/6/8/g/apple-iphone-se-mxvv2hn-a-original-imafrcqmfxhcrpsb.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 1
+    },
+    "product_name": "APPLE iPhone 13 (Midnight, 128 GB)",
+    "product_id": 202,
+    "price": [
+      {
+        "current_price": "74900",
+        "old_price": "79900"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "128 GB ROM",
+        "15.49 cm (6.1 inch) Super Retina XDR Display",
+        "12MP + 12MP | 12MP Front Camera",
+        "A15 Bionic Chip Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/f/c/g/iphone-13-mlpf3hn-a-apple-original-imag6vzzzfa5ndzm.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 1
+    },
+    "product_name": "APPLE iPhone 13 (Starlight, 128 GB)",
+    "product_id": 203,
+    "price": [
+      {
+        "current_price": "74900",
+        "old_price": "79900"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "128 GB ROM",
+        "15.49 cm (6.1 inch) Super Retina XDR Display",
+        "12MP + 12MP | 12MP Front Camera",
+        "A15 Bionic Chip Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/f/c/g/iphone-13-mlpf3hn-a-apple-original-imag6vzzzfa5ndzm.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 1
+    },
+    "product_name": "APPLE iPhone 13 Mini (Pink, 128 GB)",
+    "product_id": 204,
+    "price": [
+      {
+        "current_price": "59999",
+        "old_price": "69900"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "128 GB ROM",
+        "15.49 cm (6.1 inch) Super Retina XDR Display",
+        "12MP + 12MP | 12MP Front Camera",
+        "A15 Bionic Chip Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/f/c/g/iphone-13-mlpf3hn-a-apple-original-imag6vzzzfa5ndzm.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "apple",
+      "brand_id": 1
+    },
+    "product_name": "APPLE iPhone 11 (Red, 128 GB)",
+    "product_id": 205,
+    "price": [
+      {
+        "current_price": "52990",
+        "old_price": "54900"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "128 GB ROM",
+        "15.49 cm (6.1 inch) Liquid Retina HD Display",
+        "12MP + 12MP | 12MP Front Camera",
+        "A13 Bionic Chip Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kgiaykw0/mobile/5/9/g/apple-iphone-11-mhdk3hn-a-original-imafwqepg5dyc5dz.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "huawai",
+      "brand_id": 2
+    },
+    "product_name": "Huawei Y9 Prime 2019 (Sapphire Blue, 128 GB)",
+    "product_id": 206,
+    "price": [
+      {
+        "current_price": "19990",
+        "old_price": "19990"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "4 GB RAM | 128 GB ROM",
+        "16.74 cm (6.59 inch) Full HD+ Display",
+        "16MP + 8MP + 2MP | 16MP Front Camera",
+        "4000 mAh Battery",
+        "HiSilicon Kirin 710F AI Chipset with Dual-NPU Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/612/612/k3ncakw0pkrrdj/mobile/p/h/y/huawei-y9-prime-2019-stk-l22-original-imafgf3hqgzwadyq.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "huawai",
+      "brand_id": 2
+    },
+    "product_name": "Honor 9N (Sapphire Blue, 32 GB)",
+    "product_id": 207,
+    "price": [
+      {
+        "current_price": "13999",
+        "old_price": "13999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "14.83 cm (5.84 inches) Display",
+        "13MP + 2MP | 16MP Front Camera",
+        "3000 mAh Battery",
+        "Kirin 659 Octa Core Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/612/612/jpvihzk0/mobile/x/b/g/honor-9n-lld-al20-original-imafcysuxztcr4gz.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "huawai",
+      "brand_id": 2
+    },
+    "product_name": "Honor 9N (Midnight Black, 128 GB)",
+    "product_id": 208,
+    "price": [
+      {
+        "current_price": "19999",
+        "old_price": "19999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "14.83 cm (5.84 inches) Display",
+        "13MP + 2MP | 16MP Front Camera",
+        "3000 mAh Battery",
+        "Kirin 659 Octa Core Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/612/612/jpvihzk0/mobile/n/y/a/honor-9n-lld-al20-original-imafcysuqxfgvknv.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "huawai",
+      "brand_id": 2
+    },
+    "product_name": "Honor 9N (Robin Egg Blue, 64 GB)",
+    "product_id": 209,
+    "price": [
+      {
+        "current_price": "15999",
+        "old_price": "15999"
+      }
+    ],
+    "discount": 0,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "14.83 cm (5.84 inches) Display",
+        "13MP + 2MP | 16MP Front Camera",
+        "3000 mAh Battery",
+        "Kirin 659 Octa Core Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/612/612/jnhs2vk0/mobile/k/k/p/honor-9n-lld-al20-original-imafa66tsacaxxzf.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "huawai",
+      "brand_id": 2
+    },
+    "product_name": "Honor 9i (Aurora Blue, 64 GB)",
+    "product_id": 210,
+    "price": [
+      {
+        "current_price": "19999",
+        "old_price": "19999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 128 GB",
+        "14.99 cm (5.9 inch) Full HD+ Display",
+        "16MP + 2MP | 13MP + 2MP Dual Front Camera",
+        "3340 mAh Battery",
+        "Huawei Kirin 659 Octa Core Clocked up to 2.36 GHz Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/612/612/ja73ki80/mobile/k/h/b/honor-9i-rne-l22-original-imaeztvhvyyuw3yz.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "mi",
+      "brand_id": 3
+    },
+    "product_name": "Redmi 9A Sport (Coral Green, 32 GB)",
+    "product_id": 211,
+    "price": [
+      {
+        "current_price": "8019",
+        "old_price": "8219"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "2 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
+        "16.59 cm (6.53 inch) HD+ Display",
+        "13MP Rear Camera | 5MP Front Camera",
+        "5000 mAh Battery",
+        "MediaTek Helio G25 Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ku5ufm80/mobile/s/i/q/sport-9a-redmi-original-imag7chxqqu7h5hs.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "mi",
+      "brand_id": 3
+    },
+    "product_name": "Redmi Note 11 (Starburst White, 64 GB)",
+    "product_id": 212,
+    "price": [
+      {
+        "current_price": "13762",
+        "old_price": "17999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "16.33 cm (6.43 inch) Full HD+ Display",
+        "50MP + 8MP + 2MP + 2MP | 13MP Front Camera",
+        "5000 mAh Battery",
+        "Qualcomm SM6225 Snapdragon 680 Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kzfvzww0/mobile/t/f/s/note-11-2201117ti-redmi-original-imagbgaqje2mygjm.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "mi",
+      "brand_id": 3
+    },
+    "product_name": "Xiaomi 11i 5G (Stealth Black, 128 GB)",
+    "product_id": 213,
+    "price": [
+      {
+        "current_price": "24999",
+        "old_price": "29999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "16.94 cm (6.67 inch) Full HD+ AMOLED Display",
+        "108MP Rear Camera | 16MP Front Camera",
+        "5160 mAh Li-Polymer Battery",
+        "Mediatek Dimensity 920 Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/4/n/d/-original-imagag2gdzpdfsdf.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "mi",
+      "brand_id": 3
+    },
+    "product_name": "Redmi 8A Dual (Midnight Grey, 64 GB)",
+    "product_id": 214,
+    "price": [
+      {
+        "current_price": "8790",
+        "old_price": "9750"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "3 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+        "15.8 cm (6.22 inch) HD+ Display",
+        "13MP + 2MP | 8MP Front Camera",
+        "5000 mAh Lithium Polymer Battery",
+        "Qualcomm Snapdragon 439 Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kbl4cy80/mobile/k/u/a/mi-redmi-8a-dual-b086982vlb-original-imafswhvwcgnqgcu.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "mi",
+      "brand_id": 3
+    },
+    "product_name": "REDMI Note 11T 5G (Matte black, 128 GB)",
+    "product_id": 215,
+    "price": [
+      {
+        "current_price": "19512",
+        "old_price": "22689"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+        "6 GB RAM | 64 GB ROM",
+        "16.76 cm (6.6 inch) Display",
+        "50MP Rear Camera",
+        "5000 mAh Battery",
+        "Octa Core Processor"
+    ],
+    "images": [
+        "https://rukminim2.flixcart.com/image/312/312/kwv0djk0/mobile/n/t/m/note-11t-21091116ai-mzb0a8qain-redmi-original-imag9g3hxujubg8g.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 4
+    },
+    "product_name": "Lenovo Z6 Pro (Black, 128 GB)",
+    "product_id": 216,
+    "price": [
+      {
+        "current_price": "39999",
+        "old_price": "39999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "8 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+      "16.23 cm (6.39 inch) Full HD+ Display",
+      "48MP + 2MP + 16MP + 8MP | 32MP Front Camera",
+      "4000 mAh Li-polymer Battery",
+      "Qualcomm SDM855 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/k070zgw0/mobile/z/4/3/lenovo-z6-pro-l78051-original-imafkfuwrgzct8ah.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 4
+    },
+    "product_name": "Lenovo S930 (Silver, 8 GB)",
+    "product_id": 217,
+    "price": [
+      {
+        "current_price": "13604",
+        "old_price": "13604"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "1 GB RAM | 8 GB ROM | Expandable Upto 32 GB",
+      "15.24 cm (6 inch) HD Display",
+      "8MP Rear Camera | 1.6MP Front Camera",
+      "3000 mAh Li-Polymer Battery",
+      "MediaTek 6582 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/mobile/m/v/y/lenovo-s930-original-imadsn9sezabcwaj.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 4
+    },
+    "product_name": "Lenovo K10 Plus (Black, 64 GB)",
+    "product_id": 218,
+    "price": [
+      {
+        "current_price": "13999",
+        "old_price": "13999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+      "15.8 cm (6.22 inch) HD+ Display",
+      "13MP + 5MP + 8MP | 16MP Front Camera",
+      "4050 mAh Battery",
+      "Qualcomm SDM632 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/k0tw13k0/mobile/f/g/f/lenovo-k10-plus-pagw0014in-original-imafkjayuyv8vg9z.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 4
+    },
+    "product_name": "Lenovo A6 Note (Blue, 32 GB)",
+    "product_id": 219,
+    "price": [
+      {
+        "current_price": "9999",
+        "old_price": "9999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+      "15.5 cm (6.102 inch) HD+ Display",
+      "13MP + 2MP | 5MP Front Camera",
+      "4000 mAh Battery",
+      "MediaTek P22 Octa Core Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/k0h12fk0/mobile/e/6/n/lenovo-a6-note-pagk0026in-original-imafkyahwrfnpghn.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "lenovo",
+      "brand_id": 4
+    },
+    "product_name": "Lenovo K8 Plus (Venom Black, 32 GB)",
+    "product_id": 220,
+    "price": [
+      {
+        "current_price": "10999",
+        "old_price": "10999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "3 GB RAM | 32 GB ROM | Expandable Upto 128 GB",
+      "13.21 cm (5.2 inch) Full HD Display",
+      "13MP + 5MP | 8MP Front Camera",
+      "4000 mAh Battery",
+      "MediaTek MTK Helio P25 Octa Core 2.5 GHz Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/j7gi6q80/mobile/p/t/d/lenovo-k8-plus-pa8c0003in-original-imaexp2rupxj9w5f.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "motorola",
+      "brand_id": 5
+    },
+    "product_name": "MOTOROLA G60 (Soft Silver, 128 GB)",
+    "product_id": 221,
+    "price": [
+      {
+        "current_price": "17499",
+        "old_price": "21999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "6 GB RAM | 128 GB ROM",
+      "17.22 cm (6.78 inch) Full HD+ Display",
+      "108MP + 8MP + 2MP | 32MP Front Camera",
+      "6000 mAh Battery",
+      "Qualcomm Snapdragon 732G Processor",
+      "120Hz Refresh Rate",
+      "Stock Android Experience"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/l0o6nbk0/mobile/j/w/k/-original-imagceuvb2qasggx.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "motorola",
+      "brand_id": 5
+    },
+    "product_name": "MOTOROLA g31 (Baby Blue, 64 GB)",
+    "product_id": 222,
+    "price": [
+      {
+        "current_price": "11999",
+        "old_price": "13999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+      "16.26 cm (6.4 Inch) Full HD+ Display",
+      "50MP + 8MP + 2MP | 13MP Front Camera",
+      "5000 mAh LiPo Battery",
+      "Mediatek Helio G85 Processor"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/n/h/4/-original-imagcahnwypwuaac.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "motorola",
+      "brand_id": 5
+    },
+    "product_name": "MOTOROLA e40 (Carbon Gray, 64 GB)",
+    "product_id": 223,
+    "price": [
+      {
+        "current_price": "9999",
+        "old_price": "10999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+      "16.51 cm (6.5 inch) HD+ Display",
+      "48MP + 2MP + 2MP | 8MP Front Camera",
+      "5000 mAh Battery",
+      "UNISOC T700 Processor"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/kulk9zk0/mobile/5/t/f/e40-parl0010in-motorola-original-imag7zz7rzhrkrk2.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "motorola",
+      "brand_id": 5
+    },
+    "product_name": "MOTOROLA G40 Fusion (Dynamic Gray, 128 GB)",
+    "product_id": 224,
+    "price": [
+      {
+        "current_price": "14499",
+        "old_price": "19999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "6 GB RAM | 128 GB ROM",
+      "17.22 cm (6.78 inch) Full HD+ Display",
+      "64MP + 8MP + 2MP | 16MP Front Camera",
+      "6000 mAh Battery",
+      "Qualcomm Snapdragon 732G Processor",
+      "120Hz Refresh Rate",
+      "Stock Android Experience"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/knoxnrk0/mobile/s/d/d/g40-fusion-panv0002in-panv0006in-panv0010in-motorola-original-imag2aqcxrhhuwfh.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "motorola",
+      "brand_id": 5
+    },
+    "product_name": "MOTOROLA g31 (Meteorite Grey, 64 GB)",
+    "product_id": 225,
+    "price": [
+      {
+        "current_price": "11999",
+        "old_price": "13999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+      "16.26 cm (6.4 inch) Full HD+ Display",
+      "50MP + 8MP + 2MP | 13MP Front Camera",
+      "5000 mAh LiPo Battery",
+      "Mediatek Helio G85 Processor"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/n/h/4/-original-imagcahnwypwuaac.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "nokia",
+      "brand_id": 6
+    },
+    "product_name": "Nokia C01 Plus (Grey, 16 GB)",
+    "product_id": 226,
+    "price": [
+      {
+        "current_price": "6160",
+        "old_price": "6499"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "2 GB RAM | 16 GB ROM",
+      "13.84 cm (5.45 inch) HD+ Display",
+      "5MP Rear Camera | 2MP Front Camera",
+      "3000 mAh Li-ion Battery",
+      "Unisoc SC9863A Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/ktizdzk0/mobile/b/t/k/c01-plus-ta-1396-ds-nokia-original-imag6updf4nzdndh.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "nokia",
+      "brand_id": 6
+    },
+    "product_name": "Nokia G10 (Night | Dark Blue, 64 GB)",
+    "product_id": 227,
+    "price": [
+      {
+        "current_price": "11439",
+        "old_price": "11459"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM",
+      "16.51 cm (6.5 inch) HD+ Display",
+      "13MP + 2MP + 2MP | 8MP Front Camera",
+      "5050 mAh Lithium Ion Battery",
+      "MediaTek Helio G25 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/ktizdzk0/mobile/j/3/h/g10-ta-1334-ds-nokia-original-imag6uph7y985hzz.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "nokia",
+      "brand_id": 6
+    },
+    "product_name": "Nokia G20 (Glacier, 64 GB)",
+    "product_id": 228,
+    "price": [
+      {
+        "current_price": "12989",
+        "old_price": "13496"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM",
+      "16.51 cm (6.5 inch) HD+ Display",
+      "48MP Rear Camera | 8MP Front Camera",
+      "5050 mAh Battery",
+      "Mediatek G35 8x A53 2.3GHz Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/ktd9mkw0/mobile/l/o/r/g20-ta-1365-ds-4-64-nokia-g20-nokia-original-imag6q3qqph44qeu.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "nokia",
+      "brand_id": 6
+    },
+    "product_name": "Nokia 3.4 (Charcoal GREY, 64 GB)",
+    "product_id": 229,
+    "price": [
+      {
+        "current_price": "13999",
+        "old_price": "13999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+      "16.23 cm (6.39 inch) HD+ Display",
+      "13MP + 5MP + 2MP | 8MP Front Camera",
+      "4000 mAh Li-ion Battery",
+      "Qualcomm Snapdragon 460 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/kle24cw0/mobile/b/s/j/3-4-hq5020nf39000-nokia-original-imagyja6gf49rkhb.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "nokia",
+      "brand_id": 6
+    },
+    "product_name": "Nokia 3.4 (Fjord BLUE, 64 GB)",
+    "product_id": 230,
+    "price": [
+      {
+        "current_price": "11499",
+        "old_price": "11499"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+      "16.23 cm (6.39 inch) HD+ Display",
+      "13MP + 5MP + 2MP | 8MP Front Camera",
+      "4000 mAh Li-ion Battery",
+      "Qualcomm Snapdragon 460 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/kle24cw0/mobile/5/x/c/3-4-hq5020nf37000-nokia-original-imagyja6zgmtnyqa.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "oppo",
+      "brand_id": 7
+    },
+    "product_name": "OPPO A54 (Crystal Black, 128 GB)",
+    "product_id": 231,
+    "price": [
+      {
+        "current_price": "15990",
+        "old_price": "17990"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+      "16.54 cm (6.51 inch) HD+ Display",
+      "13MP + 2MP + 2MP | 16MP Front Camera",
+      "5000 mAh Lithium-ion Polymer Battery",
+      "MediaTek Helio P35 Processor"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/knni7ww0/mobile/s/h/f/a54-cph2239-oppo-original-imag2ay5vhv5huuw.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "oppo",
+      "brand_id": 7
+    },
+    "product_name": "OPPO A53s 5G (Ink Black, 128 GB)",
+    "product_id": 232,
+    "price": [
+      {
+        "current_price": "14990",
+        "old_price": "18990"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+      "16.56 cm (6.52 inch) HD+ Display",
+      "13MP + 2MP + 2MP | 8MP Front Camera",
+      "5000 mAh Battery",
+      "MediaTek Dimensity 700 Processor",
+      "Dual-Mode 5G | Ultra Clear Eye Care Display | Side Fingerprint Unlock"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/knyxqq80/mobile/1/u/e/a53s-5g-cph2321-oppo-original-imag2gwzmunrmur8.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "oppo",
+      "brand_id": 7
+    },
+    "product_name": "OPPO F17 Pro (Matte Black, 128 GB)",
+    "product_id": 233,
+    "price": [
+      {
+        "current_price": "14990",
+        "old_price": "25990"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+      "16.33 cm (6.43 inch) Full HD+ Display",
+      "48MP + 8MP + 2MP + 2MP | 16MP + 2MP Dual Front Camera",
+      "4015 mAh Lithium-ion Battery",
+      "MediaTek Helio P95 Processor",
+      "In-Display Fingerprint 3.0",
+      "30W VOOC Flash Charge 4.0"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/kekadu80/mobile/y/q/5/oppo-f17-pro-cph2119-original-imafv7pxgndwsekf.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "oppo",
+      "brand_id": 7
+    },
+    "product_name": "OPPO K10 (Black Carbon, 128 GB)",
+    "product_id": 234,
+    "price": [
+      {
+        "current_price": "14990",
+        "old_price": "18999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+      "16.74 cm (6.59 inch) Full HD+ Display",
+      "50MP + 2MP + 2MP | 16MP Front Camera",
+      "5000 mAh Lithium Ion Battery",
+      "Qualcomm Snapdragon 680 Processor",
+      "33W SUPERVOOC Charger | Dual Speaker | Super Adaptive Refresh Rate",
+      "AI Photo Suite | OPPO Glow Design with Dirt and Scratch Resistant"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/l12h1u80/mobile/w/s/e/-original-imagcpehdhqyzqpz.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "oppo",
+      "brand_id": 7
+    },
+    "product_name": "OPPO F19s (Glowing Black, 128 GB)",
+    "product_id": 235,
+    "price": [
+      {
+        "current_price": "18580",
+        "old_price": "18999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+      "16.33 cm (6.43 inch) Full HD+ Display",
+      "48MP + 2MP + 2MP | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Qualcomm Snapdragon 662 Processor"
+      ],
+    "images": [
+      "https://rukminim1.flixcart.com/image/312/312/ku1k4280/mobile/v/a/z/f19s-cph2223-oppo-original-imag78zafzy3sjrt.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "realme",
+      "brand_id": 7
+    },
+    "product_name": "realme C11 2021 (Cool Grey, 64 GB)",
+    "product_id": 236,
+    "price": [
+      {
+        "current_price": "8999",
+        "old_price": "9999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+      "16.51 cm (6.5 inch) HD+ Display",
+      "8MP Rear Camera | 5MP Front Camera",
+      "5000 mAh Battery",
+      "Octa-core Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/kqjtd3k0/mobile/s/b/8/c11-2021-rmx3231-realme-original-imag4j4xkqchhfxk.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "realme",
+      "brand_id": 7
+    },
+    "product_name": "realme C20 (Cool Blue, 32 GB)",
+    "product_id": 237,
+    "price": [
+      {
+        "current_price": "7499",
+        "old_price": "7999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+      "16.51 cm (6.5 inch) HD+ Display",
+      "8MP Rear Camera | 5MP Front Camera",
+      "5000 mAh Battery",
+      "MediaTek Helio G35 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/kn7sdjk0/mobile/w/h/q/c20-rmx3063-realme-original-imagfxfzay72jqvh.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "realme",
+      "brand_id": 7
+    },
+    "product_name": "realme C25Y (Metal Grey, 64 GB)",
+    "product_id": 238,
+    "price": [
+      {
+        "current_price": "10999",
+        "old_price": "12999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+      "16.51 cm (6.5 inch) HD+ Display",
+      "50MP + 2MP + 2MP | 8MP Front Camera",
+      "5000 mAh Battery",
+      "Unisoc T610 Octa Core Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/ktlu9ow0/mobile/p/c/u/c25y-rmx3265-realme-original-imag6wmjczbfhk4w.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "realme",
+      "brand_id": 7
+    },
+    "product_name": "realme C21Y (Cross Black, 64 GB)",
+    "product_id": 239,
+    "price": [
+      {
+        "current_price": "10499",
+        "old_price": "10999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+      "16.51 cm (6.5 inch) HD+ Display",
+      "13MP + 2MP + 2MP | 5MP Front Camera",
+      "5000 mAh Battery",
+      "Unisoc T610 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q=70"
+    ]
+  },
+  {
+    "product_type_id": 2,
+    "brand": {
+      "brand_name": "realme",
+      "brand_id": 7
+    },
+    "product_name": "realme C35 (Glowing Green, 64 GB)",
+    "product_id": 240,
+    "price": [
+      {
+        "current_price": "11999",
+        "old_price": "13999"
+      }
+    ],
+    "discount": 40,
+    "rating": {
+      "rating_star": 4.5,
+      "rating_review": "5 Ratings & 1 Reviews"
+    },
+    "highlishts": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+      "16.76 cm (6.6 inch) Full HD+ Display",
+      "50MP + 2MP + 0.3MP | 8MP Front Camera",
+      "5000 mAh Lithium Polymer Battery",
+      "Unisoc Tiger T616 Processor"
+      ],
+    "images": [
+      "https://rukminim2.flixcart.com/image/312/312/l0fm07k0/mobile/y/g/i/-original-imagc7ryyhrrcgxh.jpeg?q=70"
+    ]
+  }
+  
+]
